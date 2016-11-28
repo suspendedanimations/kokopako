@@ -25,11 +25,11 @@ class FourOFour extends Default {
         super.dataAdded()
 
         this.bind = document.querySelector('._projects_bind')
-
+        
         classes.add(this.bind, 'is-inactive')
-
-        this.bind.querySelector('span span').innerHTML = 'Error 404'
-
+        
+        this.bind.querySelector('._').innerHTML = 'Error 404'
+        
         this.addSplit()
         
         done()
@@ -69,8 +69,8 @@ class FourOFour extends Default {
         super.destroy()
 
         classes.remove(this.bind, 'is-inactive')
-        this.bind.querySelector('span span').innerHTML = 'Projects'
-
+        this.bind.querySelector('._').innerHTML = 'Projects'
+        
         this.smooth && this.smooth.destroy()
 
         this.page.parentNode.removeChild(this.page)

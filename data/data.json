@@ -2,18 +2,18 @@
     "infos": {
         "blaze": "Kokopako",
         "name": "Clément Pavageau",
-        "tagline": "Jesus is my hair inspiration, design is my religion.",
+        "tagline": "Made in the late eighties, before the world wide web.",
         "email": "clement.pavageau@gmail.com",
         "copyright": "© 2016 kokopako. Code by <a href='http://bbriel.me' target='_blank'>Baptiste Briel</a>.",
         "description": [
-            "I’m Clément Pavageau - Kokopako - Born and raised in France. My main skills are Art Direction, UI/UX Design and Interaction Design. I’m currently based in London.",
-            "I’m driven by creating unique, innovative and fun digital experiences. I embrace new challenges."
+            "I’m Clément Pavageau - Kokopako - an independent Senior Art Director. My main skills are UX/UI Design, Interaction Design and Art Direction. After living in Paris, Stockholm, New York and Los Angeles, I'm now based in London.",
+            "I’m driven by creating unique, innovative and fun digital experiences. In the industry for more than 7 years. Currently full time freelance."
         ],
-        "agencies_big": "Watson DG, North Kingdom, Domani Studios, Make Me Pulse, Acne Production",
-        "agencies_small": "Warner Brothers, Sony Entertainement, Lucas Film, Fox Film, Lionsgate, Open Roads, Google, Netflix, Youtube, Nintendo, Lego, General Electric, Chrysler, Audi, Volkswagen, Peugeot, Adidas, H&M, Ibis Hotels, Ikea, Le Louvre, etc."
+        "agencies_big": "Watson DG, North Kingdom, Domani Studios, Acne Production, Make Me Pulse, Native Design",
+        "agencies_small": "Warner Brothers, Sony Entertainement, Lucas Film, Fox Film, Lionsgate, Google, Netflix, Youtube, Nintendo, Lego, Fox Sports, General Electric, Chrysler, Audi, Volkswagen, Adidas, H&M, Ibis Hotels, Ikea, Le Louvre, etc."
     },
     "scene": {
-        "speeds": [0.001, 0.004, 0.008, 0.01],
+        "speeds": [0.001, 0.003, 0.007, 0.01],
         "angles": [0.6, 0.3, -0.3, -0.6]
     },
     "webby_awards": {
@@ -21,7 +21,7 @@
         "items": [
             {
                 "title": "People's Voice - Star Wars App",
-                "link": "http://google.fr"
+                "link": "http://webbyawards.com/winners/2016/mobile-sites-apps/general-sites-apps/entertainment/star-wars-app/"
             }
         ]
     },
@@ -30,306 +30,387 @@
         "ace": [
             {
                 "title": "Christmas Experiments 2014",
-                "link": "http://google.fr"
+                "link": "http://www.thefwa.com/adobe/tcea/christmas-experiments-2014"
             }
         ],
         "sotd": [
-            {"title": "Ratchet & Clank", "link": "http://google.fr"},
-            {"title": "Spotlight", "link": "http://google.fr"},
-            {"title": "Christmas Experiments 2014", "link": "http://google.fr"},
-            {"title": "Christmas Experiments 2012", "link": "http://google.fr"},
-            {"title": "Ibis Sleep Art", "link": "http://google.fr"},
-            {"title": "Ikea Kitchen Dreams", "link": "http://google.fr"}
+            {"title": "Ratchet & Clank", "link": "http://www.thefwa.com/site/ratchet-clank"},
+            {"title": "Spotlight", "link": "http://www.thefwa.com/site/spotlight"},
+            {"title": "Christmas Experiments 2014", "link": "http://www.thefwa.com/site/christmas-experiments-2014?search=christmas%20experiments"},
+            {"title": "Christmas Experiments 2012", "link": "http://www.thefwa.com/site/christmas-experiments"},
+            {"title": "Ibis Sleep Art", "link": "http://www.thefwa.com/site/ibis-sleep-art"},
+            {"title": "Ikea Kitchen Dreams", "link": "http://www.thefwa.com/site/ikea-kitchen-dreams"}
         ],
         "motd": [
-            {"title": "Ratchet & Clank", "link": "http://google.fr"},
-            {"title": "Spotlight", "link": "http://google.fr"},
-            {"title": "Do you still believe", "link": "http://google.fr"}
+            {"title": "Ratchet & Clank", "link": "http://www.thefwa.com/mobile/ratchet-clank"},
+            {"title": "Spotlight", "link": "http://www.thefwa.com/mobile/spotlight"},
+            {"title": "Do you still believe", "link": "https://thefwa.com/cases/do-you-still-believe"}
         ]
     },
     "awwwards": {
         "number": "04",
         "sotd": [
-            {"title": "Do you still believe", "link": "http://google.fr"},
-            {"title": "Spotlight", "link": "http://google.fr"},
-            {"title": "Christmas Experiments 2014", "link": "http://google.fr"}
+            {"title": "Do you still believe", "link": "http://www.awwwards.com/web-design-awards/do-you-still-believe"},
+            {"title": "Spotlight", "link": "http://www.awwwards.com/web-design-awards/spotlight"},
+            {"title": "Christmas Experiments 2014", "link": "http://www.awwwards.com/web-design-awards/christmas-experiments-1"}
         ],
         "honorable": [
-            {"title": "Ratchet & Clank", "link": "http://google.fr"}
+            {"title": "Ratchet & Clank", "link": "http://www.awwwards.com/sites/ratchet-clank"}
         ]
     },
     "behance": {
         "number": "09",
         "featured": [
-            {"title": "Ratchet & Clank", "link": "http://google.fr"}
+            {"title": "Ratchet & Clank", "link": "https://www.behance.net/gallery/37052429/Ratchet-Clank"}
         ],
         "interaction": [
-            {"title": "Spotlight", "link": "http://google.fr"},
-            {"title": "Star Wars - Art Awakens", "link": "http://google.fr"},
-            {"title": "Audi TT - You Dare or You Don’t", "link": "http://google.fr"},
-            {"title": "Christmas Experiments 2014", "link": "http://google.fr"},
-            {"title": "Adidas SLVR", "link": "http://google.fr"},
-            {"title": "Family Pics", "link": "http://google.fr"},
-            {"title": "Ibis Sleep Art", "link": "http://google.fr"}
+            {"title": "Spotlight", "link": "http://www.webdesignserved.com/gallery/34843045/Spotlight"},
+            {"title": "Star Wars - Art Awakens", "link": "http://www.webdesignserved.com/gallery/34306397/Star-Wars-Art-Awakens"},
+            {"title": "Audi TT - You Dare or You Don’t", "link": "http://www.appdesignserved.co/gallery/31169959/Audi-TT-You-Dare-or-You-Dont"},
+            {"title": "Christmas Experiments 2014", "link": "http://www.webdesignserved.com/gallery/25786565/Christmas-Experiments-2014"},
+            {"title": "Adidas SLVR", "link": "http://www.webdesignserved.com/gallery/12001573/Adidas-SLVR"},
+            {"title": "Family Pics", "link": "http://www.appdesignserved.co/gallery/8042817/Family-Pics"},
+            {"title": "Ibis Sleep Art", "link": "https://www.behance.net/gallery/6386817/Ibis-Sleep-Art"}
         ],
         "animation": [
-            {"title": "HO HO HO!", "link": "http://google.fr"}
+            {"title": "HO HO HO!", "link": "http://www.motionserved.com/gallery/6639359/HOHOHO"}
         ]
     },
     "jury": [
-        {"title": "Awwwards, since 2015", "link": "http://google.fr"},
-        {"title": "The Webby Awards, since 2015", "link": "http://google.fr"}
+        {"title": "Awwwards, since 2015", "link": "http://www.awwwards.com/"},
+        {"title": "The Webby Awards, since 2015", "link": "http://webbyawards.com/"}
     ],
     "publications": {
         "2016": [
-            {"title": "Abduzeedo", "link": "http://google.fr"},
-            {"title": "Design Ideas", "link": "http://google.fr"},
-            {"title": "Webdesigner trends", "link": "http://google.fr"}
+            {"title": "Abduzeedo", "link": "http://abduzeedo.com/star-wars-episode-vii-tumblr-site?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+abduzeedo+"},
+            {"title": "Design Ideas", "link": "https://www.designideas.pics/star-wars-art-awakens-clement-pavageau/"},
+            {"title": "Webdesigner trends", "link": "http://www.webdesignertrends.com/2016/02/clement-pavageau/"}
         ],
         "2015": [
-            {"title": "Communication Arts", "link": "http://google.fr"},
-            {"title": "From up North", "link": "http://google.fr"},
-            {"title": "httpster.net", "link": "http://google.fr"},
-            {"title": "siteInspire", "link": "http://google.fr"}
+            {"title": "Communication Arts", "link": "http://www.commarts.com/webpicks/spotlight?platform=hootsuite"},
+            {"title": "From up North", "link": "http://www.fromupnorth.com/web-design-inspiration-1310/"},
+            {"title": "httpster.net", "link": "http://httpster.net/website/capitol-couture/"},
+            {"title": "siteInspire", "link": "https://www.siteinspire.com/websites/5965-spotlight"}
         ],
         "2014": [
-            {"title": "It's nice that", "link": "http://google.fr"},
-            {"title": "PSFK", "link": "http://google.fr"},
-            {"title": "Computer Arts", "link": "http://google.fr"}
+            {"title": "It's nice that", "link": "http://www.itsnicethat.com/articles/christmas-experiments"},
+            {"title": "PSFK", "link": "http://www.psfk.com/2014/12/christmas-experiments-advent-calendar-counts-down-to-christmas-with-websites.html"},
+            {"title": "Computer Arts", "link": "http://www.creativebloq.com/branding/annual-2014-21410765"}
         ],
         "2012": [
-            {"title": "Étapes", "link": "http://google.fr"}
+            {"title": "Étapes", "link": "http://etapes.com/un-calendrier-de-l-avent-par-des-artistes-digitaux?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+etapes%2Ffeed+%28etapes.com%29"}
         ],
         "2011": [
-            {"title": "Adobe", "link": "http://google.fr"},
-            {"title": "Pecha Kucha", "link": "http://google.fr"}
+            {"title": "Adobe", "link": "http://www.adobe.com/devnet/flashplayer/stage3d.html"},
+            {"title": "Pecha Kucha", "link": "http://www.pechakucha.org/"}
         ]
     },
     "interviews": [
-        {"title": "Campfires", "link": "http://google.fr"},
-        {"title": "Creative Room", "link": "http://google.fr"},
-        {"title": "Awwwards", "link": "http://google.fr"}
+        {"title": "Campfires", "link": "http://designation.io/campfires/clement-pavageau/"},
+        {"title": "Creative Room", "link": "http://creativeroom4talk.com/interview-clement-pavageau/"},
+        {"title": "Awwwards", "link": "http://www.awwwards.com/jury/judge/clement-pavageau/"}
     ],
     "projects": {
         "right-now": {
             "title": "Right Now",
-            "link": "http://google.com",
+            "link": [],
             "color": "a8b1b5",
-            "content_bg": "111f39",
+            "content_bg": "e8e8e8",
             "index_color": "bec9ce",
             "agency": "North Kingdom | General Electric (concepts)",
             "cover": "../assets/images/stack-project-1.png",
             "cover_mobile": "../assets/images/stack-project-1-mobile.png",
             "thumb": "../assets/images/thumb-1.jpg",
-            "role": "Concept, UI/UX, Art Direction",
-            "year": "2016",
+            "role": "Concept, UI/UX, Art Direction, Motion Design",
+            "year": "2014",
             "awards": [],
             "content": [
-                {"image": "/assets/images/project/Ratchet_case_study_01.jpg"},
-                {"video": "<iframe src='https://player.vimeo.com/video/166197898?autoplay=1&loop=1' width='640' height='362' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
-                {"image": "/assets/images/project/Ratchet_case_study_02.jpg"},
-                {"image": "/assets/images/project/Ratchet_case_study_03.jpg"},
-                {"image": "/assets/images/project/Ratchet_case_study_04.jpg"}
+              {"image": "/assets/images/project/RN_01.jpg"},
+              {"image": "/assets/images/project/RN_02.jpg"},
+              {"video": "<iframe src='https://player.vimeo.com/video/184420789?autoplay=1&loop=1&color=6d9491' width='1080' height='600' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
+              {"image": "/assets/images/project/RN_03.jpg"},
+              {"image": "/assets/images/project/RN_04.jpg"},
+              {"image": "/assets/images/project/RN_05.jpg"},
+              {"video": "<iframe src='https://player.vimeo.com/video/184423737?autoplay=1&loop=1&color=6d9491' width='1080' height='600' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
+              {"image": "/assets/images/project/RN_06.jpg"},
+              {"image": "/assets/images/project/RN_07.jpg"},
+              {"image": "/assets/images/project/RN_08.jpg"},
+              {"image": "/assets/images/project/RN_09.jpg"},
+              {"image": "/assets/images/project/RN_10.jpg"},
+              {"video": "<iframe src='https://player.vimeo.com/video/184427469?autoplay=1&loop=1&color=6d9491' width='1080' height='600' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
+              {"image": "/assets/images/project/RN_11.jpg"},
+              {"image": "/assets/images/project/RN_12.jpg"},
+              {"image": "/assets/images/project/RN_13.jpg"},
+              {"image": "/assets/images/project/RN_14.jpg"}
             ]
         },
         "ultima-volatus": {
             "title": "Ultima Volatus",
-            "link": "http://google.com",
+            "link": "http://watsondg.com/archive/2015/capitol-couture/",
             "color": "bd2d27",
-            "content_bg": "111f39",
+            "content_bg": "232323",
             "index_color": "d5322b",
-            "agency": "North Kingdom | General Electric (concepts)",
+            "agency": "Watson DG | Lionsgate",
             "cover": "../assets/images/stack-project-2.png",
             "cover_mobile": "../assets/images/stack-project-2-mobile.png",
             "thumb": "../assets/images/thumb-2.jpg",
-            "role": "Concept, UI/UX, Art Direction",
-            "year": "2016",
-            "awards": [
-                {"title": "FWA Site of the Day", "link": "http://google.fr"},
-                {"title": "FWA Mobile of the Day", "link": "http://google.fr"},
-                {"title": "Awwwards Honorable Mention", "link": "http://google.fr"}
-            ],
+            "role": "Concept, Art Direction",
+            "year": "2015",
+            "awards": [],
             "content": [
-                {"image": "/assets/images/project/Ratchet_case_study_01.jpg"},
-                {"video": "<iframe src='https://player.vimeo.com/video/166197898?autoplay=1&loop=1' width='640' height='362' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
-                {"image": "/assets/images/project/Ratchet_case_study_02.jpg"},
-                {"image": "/assets/images/project/Ratchet_case_study_03.jpg"},
-                {"image": "/assets/images/project/Ratchet_case_study_04.jpg"}
+                {"image": "/assets/images/project/Ultima_Volatus_01.jpg"},
+                {"image": "/assets/images/project/Ultima_Volatus_02.jpg"},
+                {"image": "/assets/images/project/Ultima_Volatus_03.jpg"},
+                {"image": "/assets/images/project/Ultima_Volatus_04.jpg"},
+                {"video": "<iframe src='https://player.vimeo.com/video/145689100?autoplay=1&loop=1&color=8e2424' width='1080' height='600' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
+                {"image": "/assets/images/project/Ultima_Volatus_05.jpg"}
             ]
         },
-        "advanced-experience": {
-            "title": "Advanced Experience",
-            "link": "http://google.com",
+        "advanced-sensations": {
+            "title": "Advanced Sensations",
+            "link": [],
             "color": "4897c0",
-            "content_bg": "111f39",
+            "content_bg": "090b1a",
             "index_color": "50aad8",
-            "agency": "North Kingdom | General Electric (concepts)",
+            "agency": "Native Design | Toyota (concepts)",
             "cover": "../assets/images/stack-project-3.png",
             "cover_mobile": "../assets/images/stack-project-3-mobile.png",
             "thumb": "../assets/images/thumb-3.jpg",
-            "role": "Concept, UI/UX, Art Direction",
+            "role": "UI/UX, Art Direction, Motion Design",
             "year": "2016",
-            "awards": [
-                {"title": "FWA Site of the Day", "link": "http://google.fr"},
-                {"title": "FWA Mobile of the Day", "link": "http://google.fr"},
-                {"title": "Awwwards Honorable Mention", "link": "http://google.fr"}
-            ],
+            "awards": [],
             "content": [
-                {"image": "/assets/images/project/Ratchet_case_study_01.jpg"},
-                {"video": "<iframe src='https://player.vimeo.com/video/166197898?autoplay=1&loop=1' width='640' height='362' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
-                {"image": "/assets/images/project/Ratchet_case_study_02.jpg"},
-                {"image": "/assets/images/project/Ratchet_case_study_03.jpg"},
-                {"image": "/assets/images/project/Ratchet_case_study_04.jpg"}
+              {"image": "/assets/images/project/Peugeot_01.jpg"},
+              {"image": "/assets/images/project/Peugeot_02.jpg"},
+              {"image": "/assets/images/project/Peugeot_03.jpg"},
+              {"image": "/assets/images/project/Peugeot_04.jpg"},
+              {"image": "/assets/images/project/Peugeot_05.jpg"},
+              {"image": "/assets/images/project/Peugeot_06.jpg"},
+              {"video": "<iframe src='https://player.vimeo.com/video/192105159?autoplay=1&loop=1&color=068fef' width='1080' height='600' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
+              {"image": "/assets/images/project/Peugeot_07.jpg"},
+              {"image": "/assets/images/project/Peugeot_08.jpg"},
+              {"image": "/assets/images/project/Peugeot_09.jpg"},
+              {"image": "/assets/images/project/Peugeot_10.jpg"},
+              {"image": "/assets/images/project/Peugeot_11.jpg"},
+              {"image": "/assets/images/project/Peugeot_12.jpg"},
+              {"image": "/assets/images/project/Peugeot_13.jpg"},
+              {"image": "/assets/images/project/Peugeot_14.jpg"},
+              {"image": "/assets/images/project/Peugeot_15.jpg"},
+              {"image": "/assets/images/project/Peugeot_16.jpg"},
+              {"image": "/assets/images/project/Peugeot_17.jpg"}
             ]
         },
         "spotlight": {
             "title": "Spotlight",
-            "link": "http://google.com",
+            "link": "http://spotlightthefilm.com/",
             "color": "d27c19",
-            "content_bg": "111f39",
+            "content_bg": "e1e1e1",
             "index_color": "e9891b",
-            "agency": "North Kingdom | General Electric (concepts)",
+            "agency": "Watson DG | Open Roads",
             "cover": "../assets/images/stack-project-4.png",
             "cover_mobile": "../assets/images/stack-project-4-mobile.png",
             "thumb": "../assets/images/thumb-4.jpg",
             "role": "Concept, UI/UX, Art Direction",
-            "year": "2016",
+            "year": "2015",
             "awards": [
-                {"title": "FWA Site of the Day", "link": "http://google.fr"},
-                {"title": "FWA Mobile of the Day", "link": "http://google.fr"},
-                {"title": "Awwwards Honorable Mention", "link": "http://google.fr"}
+                {"title": "FWA Site of the Day", "link": "http://www.thefwa.com/site/spotlight"},
+                {"title": "FWA Mobile of the Day", "link": "http://www.thefwa.com/mobile/spotlight"},
+                {"title": "Awwwards Honorable Mention", "link": "http://www.awwwards.com/web-design-awards/spotlight"}
             ],
             "content": [
-                {"image": "/assets/images/project/Ratchet_case_study_01.jpg"},
-                {"video": "<iframe src='https://player.vimeo.com/video/166197898?autoplay=1&loop=1' width='640' height='362' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
-                {"image": "/assets/images/project/Ratchet_case_study_02.jpg"},
-                {"image": "/assets/images/project/Ratchet_case_study_03.jpg"},
-                {"image": "/assets/images/project/Ratchet_case_study_04.jpg"}
+                {"image": "/assets/images/project/Spotlight_01.jpg"},
+                {"image": "/assets/images/project/Spotlight_02.jpg"},
+                {"image": "/assets/images/project/Spotlight_03.jpg"},
+                {"image": "/assets/images/project/Spotlight_04.jpg"},
+                {"image": "/assets/images/project/Spotlight_05.jpg"},
+                {"video": "<iframe src='https://player.vimeo.com/video/158289207?autoplay=1&loop=1&color=e28325' width='1080' height='600' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
+                {"image": "/assets/images/project/Spotlight_06.jpg"},
+                {"image": "/assets/images/project/Spotlight_07.jpg"},
+                {"video": "<iframe src='https://player.vimeo.com/video/158289247?autoplay=1&loop=1&color=e18629' width='1080' height='600' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
+                {"image": "/assets/images/project/Spotlight_08.jpg"},
+                {"image": "/assets/images/project/Spotlight_09.jpg"},
+                {"image": "/assets/images/project/Spotlight_10.jpg"},
+                {"image": "/assets/images/project/Spotlight_11.jpg"},
+                {"image": "/assets/images/project/Spotlight_12.jpg"},
+                {"image": "/assets/images/project/Spotlight_13.jpg"},
+                {"video": "<iframe src='https://player.vimeo.com/video/158289314?autoplay=1&loop=1&color=e18629' width='1080' height='600' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
+                {"image": "/assets/images/project/Spotlight_14.jpg"},
+                {"image": "/assets/images/project/Spotlight_15.jpg"},
+                {"image": "/assets/images/project/Spotlight_16.jpg"}
+
             ]
         },
         "vigilante-drone": {
             "title": "Vigilante Drone",
-            "link": "http://google.com",
+            "link": [],
             "color": "0c8fa7",
-            "content_bg": "111f39",
+            "content_bg": "010715",
             "index_color": "0da5bf",
-            "agency": "North Kingdom | General Electric (concepts)",
+            "agency": "Personal Project",
             "cover": "../assets/images/stack-project-5.png",
             "cover_mobile": "../assets/images/stack-project-5-mobile.png",
             "thumb": "../assets/images/thumb-5.jpg",
-            "role": "Concept, UI/UX, Art Direction",
-            "year": "2016",
-            "awards": [
-                {"title": "FWA Site of the Day", "link": "http://google.fr"},
-                {"title": "FWA Mobile of the Day", "link": "http://google.fr"},
-                {"title": "Awwwards Honorable Mention", "link": "http://google.fr"}
-            ],
+            "role": "UI, Art Direction, Motion Design, 3D Rendering",
+            "year": "2015",
+            "awards": [],
             "content": [
-                {"image": "/assets/images/project/Ratchet_case_study_01.jpg"},
-                {"video": "<iframe src='https://player.vimeo.com/video/166197898?autoplay=1&loop=1' width='640' height='362' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
-                {"image": "/assets/images/project/Ratchet_case_study_02.jpg"},
-                {"image": "/assets/images/project/Ratchet_case_study_03.jpg"},
-                {"image": "/assets/images/project/Ratchet_case_study_04.jpg"}
+                {"image": "/assets/images/project/Vigilante_Drone_01_Pilot.jpg"},
+                {"video": "<iframe src='https://player.vimeo.com/video/129334895?autoplay=1&loop=1&color=648f95' width='1080' height='600' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
+                {"image": "/assets/images/project/Vigilante_Drone_02_Recording.jpg"},
+                {"image": "/assets/images/project/Vigilante_Drone_Drone_view_04.jpg"},
+                {"image": "/assets/images/project/Vigilante_Drone_03_Flight_Datas.jpg"},
+                {"video": "<iframe src='https://player.vimeo.com/video/129335801?autoplay=1&loop=1&color=648f95' width='1080' height='600' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
+                {"image": "/assets/images/project/Vigilante_Drone_04_Location.jpg"},
+                {"video": "<iframe src='https://player.vimeo.com/video/129335659?autoplay=1&loop=1&color=648f95' width='1080' height='600' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
+                {"image": "/assets/images/project/Vigilante_Drone_05_Engine_Datas.jpg"},
+                {"image": "/assets/images/project/Vigilante_Drone_Drone_view_01.jpg"},
+                {"image": "/assets/images/project/Vigilante_Drone_06_Mission.jpg"},
+                {"video": "<iframe src='https://player.vimeo.com/video/129335512?autoplay=1&loop=1&color=648f95' width='1080' height='600' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
+                {"image": "/assets/images/project/Vigilante_Drone_07_Mission_crew.jpg"},
+                {"image": "/assets/images/project/Vigilante_Drone_Drone_view_06.jpg"},
+                {"image": "/assets/images/project/Vigilante_Drone_08_Earth_coordinates.jpg"},
+                {"video": "<iframe src='https://player.vimeo.com/video/129335172?autoplay=1&loop=1&color=648f95' width='1080' height='600' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
+                {"image": "/assets/images/project/Vigilante_Drone_09_Cameras.jpg"},
+                {"video": "<iframe src='https://player.vimeo.com/video/129335924?autoplay=1&loop=1&color=648f95' width='1080' height='600' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
+                {"image": "/assets/images/project/Vigilante_Drone_End_Title_01.jpg"}
+
             ]
         },
         "art-awakens": {
             "title": "Art Awakens",
-            "link": "http://google.com",
+            "link": [],
             "color": "ad3534",
-            "content_bg": "111f39",
+            "content_bg": "fafafc",
             "index_color": "c53c3a",
-            "agency": "North Kingdom | General Electric (concepts)",
+            "agency": "Watson DG | Lucas Film (concepts)",
             "cover": "../assets/images/stack-project-6.png",
             "cover_mobile": "../assets/images/stack-project-6-mobile.png",
             "thumb": "../assets/images/thumb-6.jpg",
             "role": "Concept, UI/UX, Art Direction",
-            "year": "2016",
-            "awards": [
-                {"title": "FWA Site of the Day", "link": "http://google.fr"},
-                {"title": "FWA Mobile of the Day", "link": "http://google.fr"},
-                {"title": "Awwwards Honorable Mention", "link": "http://google.fr"}
-            ],
+            "year": "2015",
+            "awards": [],
             "content": [
-                {"image": "/assets/images/project/Ratchet_case_study_01.jpg"},
-                {"video": "<iframe src='https://player.vimeo.com/video/166197898?autoplay=1&loop=1' width='640' height='362' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
-                {"image": "/assets/images/project/Ratchet_case_study_02.jpg"},
-                {"image": "/assets/images/project/Ratchet_case_study_03.jpg"},
-                {"image": "/assets/images/project/Ratchet_case_study_04.jpg"}
+                {"image": "/assets/images/project/Art_Awakens_01.jpg"},
+                {"image": "/assets/images/project/Art_Awakens_02.jpg"},
+                {"image": "/assets/images/project/Art_Awakens_03.jpg"},
+                {"image": "/assets/images/project/Art_Awakens_04.jpg"},
+                {"image": "/assets/images/project/Art_Awakens_05.jpg"},
+                {"image": "/assets/images/project/Art_Awakens_06.jpg"},
+                {"image": "/assets/images/project/Art_Awakens_07.jpg"},
+                {"image": "/assets/images/project/Art_Awakens_08.jpg"},
+                {"image": "/assets/images/project/Art_Awakens_09.jpg"},
+                {"image": "/assets/images/project/Art_Awakens_10.jpg"},
+                {"image": "/assets/images/project/Art_Awakens_11.jpg"},
+                {"image": "/assets/images/project/Art_Awakens_12.jpg"},
+                {"image": "/assets/images/project/Art_Awakens_13.jpg"}
             ]
         },
         "do-you-still-believe": {
             "title": "Do You Still Believe",
-            "link": "http://google.com",
+            "link": "http://watsondg.com/archive/2016/x-files/",
             "color": "4f9b8e",
-            "content_bg": "111f39",
+            "content_bg": "e8e7e7",
             "index_color": "5cb4a5",
-            "agency": "North Kingdom | General Electric (concepts)",
+            "agency": "Watson DG | Fox Film",
             "cover": "../assets/images/stack-project-7.png",
             "cover_mobile": "../assets/images/stack-project-7-mobile.png",
             "thumb": "../assets/images/thumb-7.jpg",
-            "role": "Concept, UI/UX, Art Direction",
+            "role": "UI/UX, Art Direction",
             "year": "2016",
             "awards": [
-                {"title": "FWA Site of the Day", "link": "http://google.fr"},
-                {"title": "FWA Mobile of the Day", "link": "http://google.fr"},
-                {"title": "Awwwards Honorable Mention", "link": "http://google.fr"}
+                {"title": "FWA Mobile of the Day", "link": "http://www.thefwa.com/mobile/do-you-still-believe"},
+                {"title": "Awwwards Site of the Day", "link": "http://www.awwwards.com/web-design-awards/do-you-still-believe"}
             ],
             "content": [
-                {"image": "/assets/images/project/Ratchet_case_study_01.jpg"},
-                {"video": "<iframe src='https://player.vimeo.com/video/166197898?autoplay=1&loop=1' width='640' height='362' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
-                {"image": "/assets/images/project/Ratchet_case_study_02.jpg"},
-                {"image": "/assets/images/project/Ratchet_case_study_03.jpg"},
-                {"image": "/assets/images/project/Ratchet_case_study_04.jpg"}
+                {"image": "/assets/images/project/XFiles_Case_Study_01.jpg"},
+                {"image": "/assets/images/project/XFiles_Case_Study_02.jpg"},
+                {"image": "/assets/images/project/XFiles_Case_Study_03.jpg"},
+                {"video": "<iframe src='https://player.vimeo.com/video/164398387?autoplay=1&loop=1&color=e44542' width='1080' height='600' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
+                {"image": "/assets/images/project/XFiles_Case_Study_04.jpg"},
+                {"image": "/assets/images/project/XFiles_Case_Study_05.jpg"},
+                {"image": "/assets/images/project/XFiles_Case_Study_06.jpg"},
+                {"image": "/assets/images/project/XFiles_Case_Study_07.jpg"},
+                {"image": "/assets/images/project/XFiles_Case_Study_08.jpg"},
+                {"image": "/assets/images/project/XFiles_Case_Study_09.jpg"},
+                {"image": "/assets/images/project/XFiles_Case_Study_10.jpg"},
+                {"image": "/assets/images/project/XFiles_Case_Study_11.jpg"},
+                {"image": "/assets/images/project/XFiles_Case_Study_12.jpg"},
+                {"image": "/assets/images/project/XFiles_Case_Study_13.jpg"},
+                {"image": "/assets/images/project/XFiles_Case_Study_14.jpg"},
+                {"image": "/assets/images/project/XFiles_Case_Study_15.jpg"},
+                {"video": "<iframe src='https://player.vimeo.com/video/164399782?autoplay=1&loop=1&color=e44542' width='1080' height='600' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
+                {"image": "/assets/images/project/XFiles_Case_Study_16.jpg"},
+                {"image": "/assets/images/project/XFiles_Case_Study_17.jpg"}
             ]
         },
         "adidas-slvr": {
             "title": "Adidas SLVR",
-            "link": "http://google.com",
+            "link": [],
             "color": "a2998e",
-            "content_bg": "111f39",
+            "content_bg": "dedede",
             "index_color": "baafa3",
-            "agency": "North Kingdom | General Electric (concepts)",
+            "agency": "Acne Production | Adidas (concepts)",
             "cover": "../assets/images/stack-project-8.png",
             "cover_mobile": "../assets/images/stack-project-8-mobile.png",
             "thumb": "../assets/images/thumb-8.jpg",
-            "role": "Concept, UI/UX, Art Direction",
-            "year": "2016",
-            "awards": [
-                {"title": "FWA Site of the Day", "link": "http://google.fr"},
-                {"title": "FWA Mobile of the Day", "link": "http://google.fr"},
-                {"title": "Awwwards Honorable Mention", "link": "http://google.fr"}
-            ],
+            "role": "Concept, UI/UX, Art Direction, Motion Design",
+            "year": "2013",
+            "awards": [],
             "content": [
-                {"image": "/assets/images/project/Ratchet_case_study_01.jpg"},
-                {"video": "<iframe src='https://player.vimeo.com/video/166197898?autoplay=1&loop=1' width='640' height='362' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
-                {"image": "/assets/images/project/Ratchet_case_study_02.jpg"},
-                {"image": "/assets/images/project/Ratchet_case_study_03.jpg"},
-                {"image": "/assets/images/project/Ratchet_case_study_04.jpg"}
+                {"image": "/assets/images/project/Adidas_SLVR_01.jpg"},
+                {"image": "/assets/images/project/Adidas_SLVR_02.jpg"},
+                {"image": "/assets/images/project/Adidas_SLVR_03.jpg"},
+                {"image": "/assets/images/project/Adidas_SLVR_04.jpg"},
+                {"image": "/assets/images/project/Adidas_SLVR_05.jpg"},
+                {"image": "/assets/images/project/Adidas_SLVR_06.jpg"},
+                {"image": "/assets/images/project/Adidas_SLVR_07.jpg"},
+                {"image": "/assets/images/project/Adidas_SLVR_08.jpg"},
+                {"image": "/assets/images/project/Adidas_SLVR_09.jpg"},
+                {"image": "/assets/images/project/Adidas_SLVR_10.jpg"},
+                {"image": "/assets/images/project/Adidas_SLVR_11.jpg"},
+                {"image": "/assets/images/project/Adidas_SLVR_12.jpg"},
+                {"image": "/assets/images/project/Adidas_SLVR_13.jpg"},
+                {"video": "<iframe src='https://player.vimeo.com/video/74716530?autoplay=1&loop=1&color=baafa3' width='1080' height='600' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
+                {"image": "/assets/images/project/Adidas_SLVR_14.jpg"}
             ]
         },
         "ratchet-clank": {
             "title": "Ratchet & Clank",
-            "link": "http://google.com",
+            "link": "http://64.13.192.224/archive/2016/ratchet/",
             "color": "8b52aa",
             "content_bg": "111f39",
             "index_color": "9f5fc1",
-            "agency": "North Kingdom | General Electric (concepts)",
+            "agency": "Watson DG | Sony Entertainement",
             "cover": "../assets/images/stack-project-9.png",
             "cover_mobile": "../assets/images/stack-project-9-mobile.png",
             "thumb": "../assets/images/thumb-9.jpg",
             "role": "Concept, UI/UX, Art Direction",
             "year": "2016",
             "awards": [
-                {"title": "FWA Site of the Day", "link": "http://google.fr"},
-                {"title": "FWA Mobile of the Day", "link": "http://google.fr"},
-                {"title": "Awwwards Honorable Mention", "link": "http://google.fr"}
+                {"title": "FWA Site of the Day", "link": "http://www.thefwa.com/site/ratchet-clank"},
+                {"title": "FWA Mobile of the Day", "link": "http://www.thefwa.com/mobile/ratchet-clank"},
+                {"title": "Awwwards Honorable Mention", "link": "http://www.awwwards.com/sites/ratchet-clank"}
             ],
             "content": [
                 {"image": "/assets/images/project/Ratchet_case_study_01.jpg"},
-                {"video": "<iframe src='https://player.vimeo.com/video/166197898?autoplay=1&loop=1' width='640' height='362' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
                 {"image": "/assets/images/project/Ratchet_case_study_02.jpg"},
                 {"image": "/assets/images/project/Ratchet_case_study_03.jpg"},
-                {"image": "/assets/images/project/Ratchet_case_study_04.jpg"}
+                {"video": "<iframe src='https://player.vimeo.com/video/166197898?autoplay=1&loop=1&color=05d3ee' width='1080' height='600' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
+                {"image": "/assets/images/project/Ratchet_case_study_04.jpg"},
+                {"image": "/assets/images/project/Ratchet_case_study_05.jpg"},
+                {"image": "/assets/images/project/Ratchet_case_study_06.jpg"},
+                {"video": "<iframe src='https://player.vimeo.com/video/166196299?autoplay=1&loop=1&color=05d3ee' width='1080' height='600' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
+                {"image": "/assets/images/project/Ratchet_case_study_07.jpg"},
+                {"image": "/assets/images/project/Ratchet_case_study_08.jpg"},
+                {"image": "/assets/images/project/Ratchet_case_study_09.jpg"},
+                {"video": "<iframe src='https://player.vimeo.com/video/166197932?autoplay=1&loop=1&color=05d3ee' width='1080' height='600' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
+                {"image": "/assets/images/project/Ratchet_case_study_10.jpg"},
+                {"image": "/assets/images/project/Ratchet_case_study_11.jpg"},
+                {"image": "/assets/images/project/Ratchet_case_study_12.jpg"},
+                {"image": "/assets/images/project/Ratchet_case_study_13.jpg"},
+                {"image": "/assets/images/project/Ratchet_case_study_14.jpg"},
+                {"image": "/assets/images/project/Ratchet_case_study_15.jpg"},
+                {"image": "/assets/images/project/Ratchet_case_study_16.jpg"}
             ]
         }
     }

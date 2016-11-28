@@ -39,7 +39,7 @@ class Home extends Default {
 	
 	addSmooth() {
 
-		console.warn('home addSmooth', this.previous)
+		// console.warn('home addSmooth', this.previous)
 		
 		this.smooth = config.smooth = new Smooth({
 			native: false,
