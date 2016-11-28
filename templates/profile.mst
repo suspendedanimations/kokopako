@@ -45,7 +45,7 @@
                         </div>
                         <div class="_animate js-viewport" style="overflow: visible;">
                             <ul>
-                                <a class="_a" href="mailto:{{ infos.email }}">{{ infos.email }}</a>
+                                <a class="_a no-route" href="mailto:{{ infos.email }}">{{ infos.email }}</a>
                             </ul>
                         </div>
                         <div class="_animate js-viewport">
