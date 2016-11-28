@@ -1,0 +1,5 @@
+sftp-config.json
+assets/js/lib/gsap/
+node_modules
+*.log
+.DS_Store

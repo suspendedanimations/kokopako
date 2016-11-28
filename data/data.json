@@ -1,0 +1,336 @@
+{
+    "infos": {
+        "blaze": "Kokopako",
+        "name": "Clément Pavageau",
+        "tagline": "Jesus is my hair inspiration, design is my religion.",
+        "email": "clement.pavageau@gmail.com",
+        "copyright": "© 2016 kokopako. Code by <a href='http://bbriel.me' target='_blank'>Baptiste Briel</a>.",
+        "description": [
+            "I’m Clément Pavageau - Kokopako - Born and raised in France. My main skills are Art Direction, UI/UX Design and Interaction Design. I’m currently based in London.",
+            "I’m driven by creating unique, innovative and fun digital experiences. I embrace new challenges."
+        ],
+        "agencies_big": "Watson DG, North Kingdom, Domani Studios, Make Me Pulse, Acne Production",
+        "agencies_small": "Warner Brothers, Sony Entertainement, Lucas Film, Fox Film, Lionsgate, Open Roads, Google, Netflix, Youtube, Nintendo, Lego, General Electric, Chrysler, Audi, Volkswagen, Peugeot, Adidas, H&M, Ibis Hotels, Ikea, Le Louvre, etc."
+    },
+    "scene": {
+        "speeds": [0.001, 0.004, 0.008, 0.01],
+        "angles": [0.6, 0.3, -0.3, -0.6]
+    },
+    "webby_awards": {
+        "number": "01",
+        "items": [
+            {
+                "title": "People's Voice - Star Wars App",
+                "link": "http://google.fr"
+            }
+        ]
+    },
+    "fwa": {
+        "number": "10",
+        "ace": [
+            {
+                "title": "Christmas Experiments 2014",
+                "link": "http://google.fr"
+            }
+        ],
+        "sotd": [
+            {"title": "Ratchet & Clank", "link": "http://google.fr"},
+            {"title": "Spotlight", "link": "http://google.fr"},
+            {"title": "Christmas Experiments 2014", "link": "http://google.fr"},
+            {"title": "Christmas Experiments 2012", "link": "http://google.fr"},
+            {"title": "Ibis Sleep Art", "link": "http://google.fr"},
+            {"title": "Ikea Kitchen Dreams", "link": "http://google.fr"}
+        ],
+        "motd": [
+            {"title": "Ratchet & Clank", "link": "http://google.fr"},
+            {"title": "Spotlight", "link": "http://google.fr"},
+            {"title": "Do you still believe", "link": "http://google.fr"}
+        ]
+    },
+    "awwwards": {
+        "number": "04",
+        "sotd": [
+            {"title": "Do you still believe", "link": "http://google.fr"},
+            {"title": "Spotlight", "link": "http://google.fr"},
+            {"title": "Christmas Experiments 2014", "link": "http://google.fr"}
+        ],
+        "honorable": [
+            {"title": "Ratchet & Clank", "link": "http://google.fr"}
+        ]
+    },
+    "behance": {
+        "number": "09",
+        "featured": [
+            {"title": "Ratchet & Clank", "link": "http://google.fr"}
+        ],
+        "interaction": [
+            {"title": "Spotlight", "link": "http://google.fr"},
+            {"title": "Star Wars - Art Awakens", "link": "http://google.fr"},
+            {"title": "Audi TT - You Dare or You Don’t", "link": "http://google.fr"},
+            {"title": "Christmas Experiments 2014", "link": "http://google.fr"},
+            {"title": "Adidas SLVR", "link": "http://google.fr"},
+            {"title": "Family Pics", "link": "http://google.fr"},
+            {"title": "Ibis Sleep Art", "link": "http://google.fr"}
+        ],
+        "animation": [
+            {"title": "HO HO HO!", "link": "http://google.fr"}
+        ]
+    },
+    "jury": [
+        {"title": "Awwwards, since 2015", "link": "http://google.fr"},
+        {"title": "The Webby Awards, since 2015", "link": "http://google.fr"}
+    ],
+    "publications": {
+        "2016": [
+            {"title": "Abduzeedo", "link": "http://google.fr"},
+            {"title": "Design Ideas", "link": "http://google.fr"},
+            {"title": "Webdesigner trends", "link": "http://google.fr"}
+        ],
+        "2015": [
+            {"title": "Communication Arts", "link": "http://google.fr"},
+            {"title": "From up North", "link": "http://google.fr"},
+            {"title": "httpster.net", "link": "http://google.fr"},
+            {"title": "siteInspire", "link": "http://google.fr"}
+        ],
+        "2014": [
+            {"title": "It's nice that", "link": "http://google.fr"},
+            {"title": "PSFK", "link": "http://google.fr"},
+            {"title": "Computer Arts", "link": "http://google.fr"}
+        ],
+        "2012": [
+            {"title": "Étapes", "link": "http://google.fr"}
+        ],
+        "2011": [
+            {"title": "Adobe", "link": "http://google.fr"},
+            {"title": "Pecha Kucha", "link": "http://google.fr"}
+        ]
+    },
+    "interviews": [
+        {"title": "Campfires", "link": "http://google.fr"},
+        {"title": "Creative Room", "link": "http://google.fr"},
+        {"title": "Awwwards", "link": "http://google.fr"}
+    ],
+    "projects": {
+        "right-now": {
+            "title": "Right Now",
+            "link": "http://google.com",
+            "color": "a8b1b5",
+            "content_bg": "111f39",
+            "index_color": "bec9ce",
+            "agency": "North Kingdom | General Electric (concepts)",
+            "cover": "../assets/images/stack-project-1.png",
+            "cover_mobile": "../assets/images/stack-project-1-mobile.png",
+            "thumb": "../assets/images/thumb-1.jpg",
+            "role": "Concept, UI/UX, Art Direction",
+            "year": "2016",
+            "awards": [],
+            "content": [
+                {"image": "/assets/images/project/Ratchet_case_study_01.jpg"},
+                {"video": "<iframe src='https://player.vimeo.com/video/166197898?autoplay=1&loop=1' width='640' height='362' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
+                {"image": "/assets/images/project/Ratchet_case_study_02.jpg"},
+                {"image": "/assets/images/project/Ratchet_case_study_03.jpg"},
+                {"image": "/assets/images/project/Ratchet_case_study_04.jpg"}
+            ]
+        },
+        "ultima-volatus": {
+            "title": "Ultima Volatus",
+            "link": "http://google.com",
+            "color": "bd2d27",
+            "content_bg": "111f39",
+            "index_color": "d5322b",
+            "agency": "North Kingdom | General Electric (concepts)",
+            "cover": "../assets/images/stack-project-2.png",
+            "cover_mobile": "../assets/images/stack-project-2-mobile.png",
+            "thumb": "../assets/images/thumb-2.jpg",
+            "role": "Concept, UI/UX, Art Direction",
+            "year": "2016",
+            "awards": [
+                {"title": "FWA Site of the Day", "link": "http://google.fr"},
+                {"title": "FWA Mobile of the Day", "link": "http://google.fr"},
+                {"title": "Awwwards Honorable Mention", "link": "http://google.fr"}
+            ],
+            "content": [
+                {"image": "/assets/images/project/Ratchet_case_study_01.jpg"},
+                {"video": "<iframe src='https://player.vimeo.com/video/166197898?autoplay=1&loop=1' width='640' height='362' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
+                {"image": "/assets/images/project/Ratchet_case_study_02.jpg"},
+                {"image": "/assets/images/project/Ratchet_case_study_03.jpg"},
+                {"image": "/assets/images/project/Ratchet_case_study_04.jpg"}
+            ]
+        },
+        "advanced-experience": {
+            "title": "Advanced Experience",
+            "link": "http://google.com",
+            "color": "4897c0",
+            "content_bg": "111f39",
+            "index_color": "50aad8",
+            "agency": "North Kingdom | General Electric (concepts)",
+            "cover": "../assets/images/stack-project-3.png",
+            "cover_mobile": "../assets/images/stack-project-3-mobile.png",
+            "thumb": "../assets/images/thumb-3.jpg",
+            "role": "Concept, UI/UX, Art Direction",
+            "year": "2016",
+            "awards": [
+                {"title": "FWA Site of the Day", "link": "http://google.fr"},
+                {"title": "FWA Mobile of the Day", "link": "http://google.fr"},
+                {"title": "Awwwards Honorable Mention", "link": "http://google.fr"}
+            ],
+            "content": [
+                {"image": "/assets/images/project/Ratchet_case_study_01.jpg"},
+                {"video": "<iframe src='https://player.vimeo.com/video/166197898?autoplay=1&loop=1' width='640' height='362' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
+                {"image": "/assets/images/project/Ratchet_case_study_02.jpg"},
+                {"image": "/assets/images/project/Ratchet_case_study_03.jpg"},
+                {"image": "/assets/images/project/Ratchet_case_study_04.jpg"}
+            ]
+        },
+        "spotlight": {
+            "title": "Spotlight",
+            "link": "http://google.com",
+            "color": "d27c19",
+            "content_bg": "111f39",
+            "index_color": "e9891b",
+            "agency": "North Kingdom | General Electric (concepts)",
+            "cover": "../assets/images/stack-project-4.png",
+            "cover_mobile": "../assets/images/stack-project-4-mobile.png",
+            "thumb": "../assets/images/thumb-4.jpg",
+            "role": "Concept, UI/UX, Art Direction",
+            "year": "2016",
+            "awards": [
+                {"title": "FWA Site of the Day", "link": "http://google.fr"},
+                {"title": "FWA Mobile of the Day", "link": "http://google.fr"},
+                {"title": "Awwwards Honorable Mention", "link": "http://google.fr"}
+            ],
+            "content": [
+                {"image": "/assets/images/project/Ratchet_case_study_01.jpg"},
+                {"video": "<iframe src='https://player.vimeo.com/video/166197898?autoplay=1&loop=1' width='640' height='362' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
+                {"image": "/assets/images/project/Ratchet_case_study_02.jpg"},
+                {"image": "/assets/images/project/Ratchet_case_study_03.jpg"},
+                {"image": "/assets/images/project/Ratchet_case_study_04.jpg"}
+            ]
+        },
+        "vigilante-drone": {
+            "title": "Vigilante Drone",
+            "link": "http://google.com",
+            "color": "0c8fa7",
+            "content_bg": "111f39",
+            "index_color": "0da5bf",
+            "agency": "North Kingdom | General Electric (concepts)",
+            "cover": "../assets/images/stack-project-5.png",
+            "cover_mobile": "../assets/images/stack-project-5-mobile.png",
+            "thumb": "../assets/images/thumb-5.jpg",
+            "role": "Concept, UI/UX, Art Direction",
+            "year": "2016",
+            "awards": [
+                {"title": "FWA Site of the Day", "link": "http://google.fr"},
+                {"title": "FWA Mobile of the Day", "link": "http://google.fr"},
+                {"title": "Awwwards Honorable Mention", "link": "http://google.fr"}
+            ],
+            "content": [
+                {"image": "/assets/images/project/Ratchet_case_study_01.jpg"},
+                {"video": "<iframe src='https://player.vimeo.com/video/166197898?autoplay=1&loop=1' width='640' height='362' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
+                {"image": "/assets/images/project/Ratchet_case_study_02.jpg"},
+                {"image": "/assets/images/project/Ratchet_case_study_03.jpg"},
+                {"image": "/assets/images/project/Ratchet_case_study_04.jpg"}
+            ]
+        },
+        "art-awakens": {
+            "title": "Art Awakens",
+            "link": "http://google.com",
+            "color": "ad3534",
+            "content_bg": "111f39",
+            "index_color": "c53c3a",
+            "agency": "North Kingdom | General Electric (concepts)",
+            "cover": "../assets/images/stack-project-6.png",
+            "cover_mobile": "../assets/images/stack-project-6-mobile.png",
+            "thumb": "../assets/images/thumb-6.jpg",
+            "role": "Concept, UI/UX, Art Direction",
+            "year": "2016",
+            "awards": [
+                {"title": "FWA Site of the Day", "link": "http://google.fr"},
+                {"title": "FWA Mobile of the Day", "link": "http://google.fr"},
+                {"title": "Awwwards Honorable Mention", "link": "http://google.fr"}
+            ],
+            "content": [
+                {"image": "/assets/images/project/Ratchet_case_study_01.jpg"},
+                {"video": "<iframe src='https://player.vimeo.com/video/166197898?autoplay=1&loop=1' width='640' height='362' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
+                {"image": "/assets/images/project/Ratchet_case_study_02.jpg"},
+                {"image": "/assets/images/project/Ratchet_case_study_03.jpg"},
+                {"image": "/assets/images/project/Ratchet_case_study_04.jpg"}
+            ]
+        },
+        "do-you-still-believe": {
+            "title": "Do You Still Believe",
+            "link": "http://google.com",
+            "color": "4f9b8e",
+            "content_bg": "111f39",
+            "index_color": "5cb4a5",
+            "agency": "North Kingdom | General Electric (concepts)",
+            "cover": "../assets/images/stack-project-7.png",
+            "cover_mobile": "../assets/images/stack-project-7-mobile.png",
+            "thumb": "../assets/images/thumb-7.jpg",
+            "role": "Concept, UI/UX, Art Direction",
+            "year": "2016",
+            "awards": [
+                {"title": "FWA Site of the Day", "link": "http://google.fr"},
+                {"title": "FWA Mobile of the Day", "link": "http://google.fr"},
+                {"title": "Awwwards Honorable Mention", "link": "http://google.fr"}
+            ],
+            "content": [
+                {"image": "/assets/images/project/Ratchet_case_study_01.jpg"},
+                {"video": "<iframe src='https://player.vimeo.com/video/166197898?autoplay=1&loop=1' width='640' height='362' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
+                {"image": "/assets/images/project/Ratchet_case_study_02.jpg"},
+                {"image": "/assets/images/project/Ratchet_case_study_03.jpg"},
+                {"image": "/assets/images/project/Ratchet_case_study_04.jpg"}
+            ]
+        },
+        "adidas-slvr": {
+            "title": "Adidas SLVR",
+            "link": "http://google.com",
+            "color": "a2998e",
+            "content_bg": "111f39",
+            "index_color": "baafa3",
+            "agency": "North Kingdom | General Electric (concepts)",
+            "cover": "../assets/images/stack-project-8.png",
+            "cover_mobile": "../assets/images/stack-project-8-mobile.png",
+            "thumb": "../assets/images/thumb-8.jpg",
+            "role": "Concept, UI/UX, Art Direction",
+            "year": "2016",
+            "awards": [
+                {"title": "FWA Site of the Day", "link": "http://google.fr"},
+                {"title": "FWA Mobile of the Day", "link": "http://google.fr"},
+                {"title": "Awwwards Honorable Mention", "link": "http://google.fr"}
+            ],
+            "content": [
+                {"image": "/assets/images/project/Ratchet_case_study_01.jpg"},
+                {"video": "<iframe src='https://player.vimeo.com/video/166197898?autoplay=1&loop=1' width='640' height='362' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
+                {"image": "/assets/images/project/Ratchet_case_study_02.jpg"},
+                {"image": "/assets/images/project/Ratchet_case_study_03.jpg"},
+                {"image": "/assets/images/project/Ratchet_case_study_04.jpg"}
+            ]
+        },
+        "ratchet-clank": {
+            "title": "Ratchet & Clank",
+            "link": "http://google.com",
+            "color": "8b52aa",
+            "content_bg": "111f39",
+            "index_color": "9f5fc1",
+            "agency": "North Kingdom | General Electric (concepts)",
+            "cover": "../assets/images/stack-project-9.png",
+            "cover_mobile": "../assets/images/stack-project-9-mobile.png",
+            "thumb": "../assets/images/thumb-9.jpg",
+            "role": "Concept, UI/UX, Art Direction",
+            "year": "2016",
+            "awards": [
+                {"title": "FWA Site of the Day", "link": "http://google.fr"},
+                {"title": "FWA Mobile of the Day", "link": "http://google.fr"},
+                {"title": "Awwwards Honorable Mention", "link": "http://google.fr"}
+            ],
+            "content": [
+                {"image": "/assets/images/project/Ratchet_case_study_01.jpg"},
+                {"video": "<iframe src='https://player.vimeo.com/video/166197898?autoplay=1&loop=1' width='640' height='362' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"},
+                {"image": "/assets/images/project/Ratchet_case_study_02.jpg"},
+                {"image": "/assets/images/project/Ratchet_case_study_03.jpg"},
+                {"image": "/assets/images/project/Ratchet_case_study_04.jpg"}
+            ]
+        }
+    }
+}

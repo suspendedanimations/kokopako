@@ -1,0 +1,110 @@
+<div class="_project_overflow js-overflow">
+    <div class="_project_transform">
+        <div class="_project js-section" data-color="{{index_color}}">
+            <div class="_project_header" style="background-color: #{{index_color}};">
+                <div class="row">
+                    <div class="column col-4">
+                        <h1 class="_project_title h2">{{title}}</h1>
+                        <p class="js-out">Role : {{role}}</p>
+                        <p class="js-out">Year : {{year}}</p>
+                        {{#link}}
+                            <a href="{{link}}" target="_blank" class="_project_link js-out">
+                                <span>Visit Site</span>
+                                <div class="icon">
+                                    <div class="arrow"></div>
+                                    <div class="arrow"></div>
+                                    <div class="line"></div>
+                                </div>
+                                <div class="icon">
+                                    <div class="arrow"></div>
+                                    <div class="arrow"></div>
+                                    <div class="line"></div>
+                                </div>
+                            </a>
+                        {{/link}}
+                        {{^link}}
+                        {{/link}}
+                    </div>
+                    <div class="column col-4">
+                        {{#awards.length}}
+                            <strong class="js-out">Awards</strong>
+                            <ul>
+                                {{ #awards }}
+                                <li class="js-out"><a href="{{link}}" target="_blank">{{title}}</a></li>
+                                {{ /awards }}
+                            </ul>
+                        {{/awards.length}}
+                        {{^awards.length}}
+                        {{/awards.length}}
+                    </div>
+                </div>
+                <div class="_project_back js-back">
+                    <div class="icon">
+                        <div class="arrow"></div>
+                        <div class="arrow"></div>
+                        <div></div>
+                    </div>
+                    <div class="icon">
+                        <div class="arrow"></div>
+                        <div class="arrow"></div>
+                        <div></div>   
+                    </div>
+                </div>
+                <a href="/profile" class="_project_close">
+                    <span>
+                        <span>Close</span>
+                        <div class="_icon minus"></div>
+                    </span>
+                </a>
+            </div>
+            <div class="_project_content" style="background: #{{content_bg}};">
+                {{ #content }}
+                    {{#video}}
+                        <div class="css-video">
+                            {{{video}}}
+                        </div>
+                    {{/video}}
+                    {{^video}}
+                        <img src="{{image}}" alt="" class="js-viewport scale-with-grid">
+                    {{/video}}
+                {{ /content }}
+                <div class="_project_others">
+                    {{ #projects }}
+                        <a href="/project/{{key}}" class="block{{ #current }} is-current{{ /current }}">
+                            <div class="bg" style="background-color: #{{data.index_color}};"></div>
+                            <span class="title">{{data.title}}</span>
+                            <div class="current">
+                                <span class="h3-bold">{{data.title}}</span>
+                                <span>{{data.agency}}</span>
+                            </div>
+                            <div class="right">
+                                <span class="index" style="color: #{{data.color}};">{{index}}</span>
+                                <img src="{{data.thumb}}" alt="">
+                            </div>
+                        </a>
+                    {{ /projects }}
+                </div>
+            </div>
+        </div>
+        <div class="_project_bar js-bar">
+            <div class="_project_back js-back">
+                <div class="icon">
+                    <div class="arrow"></div>
+                    <div class="arrow"></div>
+                    <div></div>   
+                </div>
+                <div class="icon">
+                    <div class="arrow"></div>
+                    <div class="arrow"></div>
+                    <div></div>   
+                </div>
+            </div>
+            <a href="/profile" class="_project_close">
+                <span>
+                    <span>Close</span>
+                    <div class="_icon minus"></div>
+                </span>
+            </a>
+        </div>
+    </div>
+</div>

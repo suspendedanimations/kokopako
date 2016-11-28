@@ -1,0 +1,292 @@
+<div class="_section js-section">
+    <div class="_animate js-viewport">
+        <h1 class="_blaze js-split" data-split="lines, words, chars">{{ infos.blaze }}</h2>
+        <h1 class="_name js-split" data-split="lines, words, chars">{{ infos.name }}</h1>
+    </div>
+    <div class="_scroll_icon">
+        <div></div>
+    </div>
+    <div class="_hp-row row">
+        <div class="column col-6">
+            <div class="row">
+                <div class="column col-8">
+                    <div class="row vs-section vs-about">
+                        <div class="_animate js-viewport">
+                            <div class="_hr-row">
+                                <hr class="_primary_bg">
+                                <span class="_primary_color">Profile</span>
+                            </div>
+                        </div>
+                        <div class="_animate js-viewport">
+                            <h1 class="h1 js-split" data-split="lines">{{ infos.tagline }}</h1>
+                        </div>
+                        {{ #infos.description }}
+                        <div class="_animate js-viewport">
+                            <p class="js-split" data-split="lines">{{.}}</p>
+                        </div>
+                        {{ /infos.description }}
+                        <div class="_animate js-viewport">
+                            <div class="_hr-row">
+                                <hr class="_primary_bg">
+                                <span class="_primary_color">Agencies and Clients</span>
+                            </div>
+                        </div>
+                        <div class="_animate js-viewport">
+                            <h1 class="h2 js-split" data-split="lines">{{ infos.agencies_big }}</h1>
+                        </div>
+                        <div class="_animate js-viewport">
+                            <p class="js-split" data-split="lines">{{ infos.agencies_small }}</p>
+                        </div>
+                        <div class="_animate js-viewport">
+                            <div class="_hr-row">
+                                <hr class="_primary_bg">
+                                <span class="_primary_color">Contact</span>
+                            </div>
+                        </div>
+                        <div class="_animate js-viewport" style="overflow: visible;">
+                            <ul>
+                                <a class="_a" href="mailto:{{ infos.email }}">{{ infos.email }}</a>
+                            </ul>
+                        </div>
+                        <div class="_animate js-viewport">
+                            <small>{{{ infos.copyright }}}</small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="column col-6">
+            <div class="row">
+                <div class="column col-8 vs-section vs-awards">
+                    <div class="_block js-viewport">
+                        <div class="_hr-row _hr-row--black">
+                            <hr>
+                        </div>
+                        <h2 class="h4 js-split" data-split="lines, words, chars">Webby Awards x{{webby_awards.number}}</h2>
+                        <ul>
+                            {{#webby_awards.items}}
+                            <li>
+                                <div class="overflow">
+                                    <span><a href="{{link}}" target="_blank" data-type="award">{{title}}</a></span>
+                                </div>
+                            </li>
+                            {{/webby_awards.items}}
+                        </ul>
+                    </div>
+                    <div class="_block js-viewport">
+                        <div class="_hr-row _hr-row--black">
+                            <hr>
+                        </div>
+                        <h2 class="h4 js-split" data-split="lines, words, chars">FWA x{{fwa.number}}</h2>
+                        <ul>
+                            <div class="overflow">
+                                <strong>Adobe the Cutting Edge</strong>
+                            </div>
+                            {{#fwa.ace}}
+                            <li>
+                                <div class="overflow">
+                                    <span><a href="{{link}}" target="_blank" data-type="award">{{title}}</a></span>
+                                </div>
+                            </li>
+                            {{/fwa.ace}}
+                        </ul>
+                        <ul>
+                            <div class="overflow">
+                                <strong>Site of the Day</strong>
+                            </div>
+                            {{#fwa.sotd}}
+                            <li>
+                                <div class="overflow">
+                                    <span><a href="{{link}}" target="_blank" data-type="award">{{title}}</a></span>
+                                </div>
+                            </li>
+                            {{/fwa.sotd}}
+                        </ul>
+                        <ul>
+                            <div class="overflow">
+                                <strong>Mobile of the Day</strong>
+                            </div>
+                            {{#fwa.motd}}
+                            <li>
+                                <div class="overflow">
+                                    <span><a href="{{link}}" target="_blank" data-type="award">{{title}}</a></span>
+                                </div>
+                            </li>
+                            {{/fwa.motd}}
+                        </ul>
+                    </div>
+                    <div class="_block js-viewport">
+                        <div class="_hr-row _hr-row--black">
+                            <hr>
+                        </div>
+                        <h2 class="h4 js-split" data-split="lines, words, chars">Awwwards x{{awwwards.number}} </h2>
+                        <ul>
+                            <div class="overflow">
+                                <strong>Site of the Day</strong>
+                            </div>
+                            {{#awwwards.sotd}}
+                            <li>
+                                <div class="overflow">
+                                    <span><a href="{{link}}" target="_blank" data-type="award">{{title}}</a></span>
+                                </div>
+                            </li>
+                            {{/awwwards.sotd}}
+                        </ul>
+                        <ul>
+                            <div class="overflow">
+                                <strong>Honorable Mention</strong>
+                            </div>
+                            {{#awwwards.honorable}}
+                            <li>
+                                <div class="overflow">
+                                    <span><a href="{{link}}" target="_blank" data-type="award">{{title}}</a></span>
+                                </div>
+                            </li>
+                            {{/awwwards.honorable}}
+                        </ul>
+                    </div>
+                    <div class="_block js-viewport">
+                        <div class="_hr-row _hr-row--black">
+                            <hr>
+                        </div>
+                        <h2 class="h4 js-split" data-split="lines, words, chars">Behance x{{behance.number}} </h2>
+                        <ul>
+                            <div class="overflow">
+                                <strong>Behance Featured</strong>
+                            </div>
+                            {{#behance.featured}}
+                            <li>
+                                <div class="overflow">
+                                    <span><a href="{{link}}" target="_blank" data-type="award">{{title}}</a></span>
+                                </div>
+                            </li>
+                            {{/behance.featured}}
+                        </ul>
+                        <ul>
+                            <div class="overflow">
+                                <strong>Interaction Featured</strong>
+                            </div>
+                            {{#behance.interaction}}
+                            <li>
+                                <div class="overflow">
+                                    <span><a href="{{link}}" target="_blank" data-type="award">{{title}}</a></span>
+                                </div>
+                            </li>
+                            {{/behance.interaction}}
+                        </ul>
+                        <ul>
+                            <div class="overflow">
+                                <strong>Animation Featured</strong>
+                            </div>
+                            {{#behance.animation}}
+                            <li>
+                                <div class="overflow">
+                                    <span><a href="{{link}}" target="_blank" data-type="award">{{title}}</a></span>
+                                </div>
+                            </li>
+                            {{/behance.animation}}
+                        </ul>
+                    </div>   
+                </div>
+                <div class="column col-4 vs-section vs-jury">
+                    <div class="_block js-viewport">
+                        <div class="_hr-row _hr-row--black">
+                            <hr>
+                        </div>
+                        <h2 class="h4 js-split" data-split="lines, words, chars">Jury Member</h2>
+                        <ul>
+                            {{#jury}}
+                            <li>
+                                <div class="overflow">
+                                    <span><a href="{{link}}" target="_blank" data-type="jury">{{title}}</a></span>
+                                </div>
+                            </li>
+                            {{/jury}}
+                        </ul>
+                    </div>
+                    <div class="_block js-viewport vs-section vs-publications">
+                        <div class="_hr-row _hr-row--black">
+                            <hr>
+                        </div>
+                        <h2 class="h4 js-split" data-split="lines, words, chars">Publications</h2>
+                        <ul>
+                            <div class="overflow">
+                                <strong>2016</strong>
+                            </div>
+                            {{#publications.2016}}
+                            <li>
+                                <div class="overflow">
+                                    <span><a href="{{link}}" target="_blank" data-type="publication">{{title}}</a></span>
+                                </div>
+                            </li>
+                            {{/publications.2016}}
+                        </ul>
+                        <ul>
+                            <div class="overflow">
+                                <strong>2015</strong>
+                            </div>
+                            {{#publications.2015}}
+                            <li>
+                                <div class="overflow">
+                                    <span><a href="{{link}}" target="_blank" data-type="publication">{{title}}</a></span>
+                                </div>
+                            </li>
+                            {{/publications.2015}}
+                        </ul>
+                        <ul>
+                            <div class="overflow">
+                                <strong>2014</strong>
+                            </div>
+                            {{#publications.2014}}
+                            <li>
+                                <div class="overflow">
+                                    <span><a href="{{link}}" target="_blank" data-type="publication">{{title}}</a></span>
+                                </div>
+                            </li>
+                            {{/publications.2014}}
+                        </ul>
+                        <ul>
+                            <div class="overflow">
+                                <strong>2012</strong>
+                            </div>
+                            {{#publications.2012}}
+                            <li>
+                                <div class="overflow">
+                                    <span><a href="{{link}}" target="_blank" data-type="publication">{{title}}</a></span>
+                                </div>
+                            </li>
+                            {{/publications.2012}}
+                        </ul>
+                        <ul>
+                            <div class="overflow">
+                                <strong>2011</strong>
+                            </div>
+                            {{#publications.2011}}
+                            <li>
+                                <div class="overflow">
+                                    <span><a href="{{link}}" target="_blank" data-type="publication">{{title}}</a></span>
+                                </div>
+                            </li>
+                            {{/publications.2011}}
+                        </ul>
+                    </div>
+                    <div class="_block js-viewport vs-section vs-interviews">
+                        <div class="_hr-row _hr-row--black">
+                            <hr>
+                        </div>
+                        <h2 class="h4 js-split" data-split="lines, words, chars">Interviews</h2>
+                        <ul>
+                            {{#interviews}}
+                            <li>
+                                <div class="overflow">
+                                    <span><a href="{{link}}" target="_blank" data-type="interview">{{title}}</a></span>
+                                </div>
+                            </li>
+                            {{/interviews}}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

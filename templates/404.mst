@@ -1,0 +1,18 @@
+<div class="_section js-section">
+    <div class="_animate js-viewport in-viewport">
+        <h1 class="_blaze js-split" data-split="lines, words, chars">{{ infos.blaze }}</h2>
+        <h1 class="_name js-split" data-split="lines, words, chars">{{ infos.name }}</h1>
+    </div>
+    <div class="title">
+        <span>
+            <span class="js-span">4</span>
+            <span class="js-span">0</span>
+            <span class="js-span">4</span>
+        </span>
+        <div class="_hp-row">
+            <ul>
+                <a class="_a" href="/">Back to Home</a>
+            </ul>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,96 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, maximum-scale=1, minimal-ui, shrink-to-fit=no">
+		
+		<meta property="og:title" content="Kokopako">
+		<meta property="og:url" content="http://kokopako.fr">
+		<meta property="og:image" content="http://kokopako.fr/assets/images/share.jpg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		<meta property="og:description" content="Digital Design &amp; Art Direction">
+		
+		<meta name="twitter:card" content="summary">
+		<meta name="twitter:site" content="@kokopako">
+		<meta name="twitter:title" content="Kokopako">
+		<meta name="twitter:description" content="Digital Design &amp; Art Direction">
+		<meta name="twitter:creator" content="@kokopako">
+		<meta name="twitter:image:src" content="http://kokopako.fr/assets/images/share.jpg">
+		<meta name="twitter:domain" content="http://kokopako.fr">
+		
+		<title>Kokopako - Digital Design &amp; Art Direction</title>
+		
+		<!--[if lt IE 9]>
+			<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		
+		<link href="/favicon.ico" rel="shortcut icon">
+		<link rel="stylesheet" href="/build/app.min.css">
+	</head>
+	<body>
+		<div class="_document">
+			<div class="_menu _primary_bg">
+				<div class="_close"></div>
+				<div class="_nav vertical-center">
+					<div class="vertical-el">
+						<a href="" data-scroll="about"><span>About</span></a>
+						<a href="" data-scroll="awards"><span>Awards</span></a>
+						<a href="" data-scroll="jury"><span>Juries</span></a>
+						<a href="" data-scroll="publications"><span>Publications</span></a>
+						<a href="" data-scroll="interviews"><span>Interviews</span></a>
+					</div>
+				</div>
+				<div class="_social">
+					<a href="" target="_blank">Linkedin</a>  |  <a href="" target="_blank">Twitter</a>  |  <a href="" target="_blank">Behance</a>  |  <a href="" target="_blank">Dribbble</a>  |  <a href="" target="_blank">Medium</a>
+				</div>
+			</div>
+			<header class="_header">
+				<div class="row">
+					<span>Digital Design &amp; Art Direction</span>
+					<span><a href="http://linkedin.com/in/cpavageau " target="_blank">Linkedin</a>  |  <a href="http://twitter.com/kokopako " target="_blank">Twitter</a>  |  <a href="http://behance.net/kokopako" target="_blank">Behance</a>  |  <a href="http://dribbble.com/kokopako" target="_blank">Dribbble</a>  |  <a href="http://medium.com/@kokopako" target="_blank">Medium</a></span>
+				</div>
+			</header>
+			<div class="_menu-icon">
+				<div></div>
+				<div></div>
+				<div></div>
+			</div>
+			<div class="_bar">
+				<div class="_bg _primary_bg"></div>
+				<div class="_loader_bg _primary_bg"></div>
+				<span class="_projects_bind">
+					<span>
+						<span>Projects</span>
+						<div class="_icon plus"></div>
+					</span>
+					<span>
+						<span>Close</span>
+						<div class="_icon minus"></div>
+					</span>
+				</span>
+				<div class="_projects_overflow">
+					<div id="_project_list" class="_projects_transform"></div>
+				</div>
+				<div class="_open_loader"></div>
+			</div>
+			<div class="_loader"><div>‘<span>00</span></div></div>
+			<div class="_view">
+				<div class="_lines">
+					<div class="_line"></div>
+					<div class="_line"></div>
+					<div class="_line"></div>
+					<div class="_line"></div>
+					<div class="_line"></div>
+					<div class="_line"></div>
+					<div class="_line"></div>
+				</div>
+			</div>
+		</div>
+		<script id="template" type="x-tmpl-mustache">
+		<div class="_project_bg">{{ #projects }}<div class="_bg" style="background-color: #{{data.color}}; background-image: url('{{data.cover}}');"><div style="background-color: #{{data.color}}; background-image: url('{{data.cover_mobile}}');"></div></div>{{ /projects }}</div><div class="_project_index"><span>00</span>{{ #projects }}<span class="el js-split" data-split="chars" style="color: #{{data.index_color}}">{{index}}</span>{{ /projects }}</div><div class="_project_title"><span>placeholder</span>{{ #projects }}<span class="el js-split" data-split="lines">{{data.title}}</span>{{ /projects }}</div><div class="_project_agency"><span>placeholder</span>{{ #projects }}<span class="el">{{data.agency}}</span>{{ /projects }}</div><span data-href="" data-color="" class="_project_link"><span>View Project</span><div class="icon"><div class="arrow"></div><div class="arrow"></div><div class="line"></div></div><div class="icon"><div class="arrow"></div><div class="arrow"></div><div class="line"></div></div></span><ul>{{ #projects }}<li data-index="{{index}}" data-color="{{data.index_color}}" data-href="/project/{{key}}"><span>{{data.title}}</span></li>{{ /projects }}</ul><div class="_scroll_icon"><div></div></div><a href="http://www.cargocollective.com/kokopako" class="_project_archive no-route" target="_blank"><span>Archived projects</span></a>
+		</script>
+		<script src="/build/app.min.js"></script>
+	</body>
+</html>

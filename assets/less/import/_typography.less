@@ -1,0 +1,52 @@
+a {
+	color: @black;
+    text-decoration: none;
+}
+
+ul {
+	list-style-type: none;
+}
+
+strong {
+    font-family: @GinesoMedium;
+}
+
+p {
+	font: @18px/@25px @GinesoBook;
+}
+
+hr {
+    border: none;
+}
+
+.h1 {
+    font: @50px/@60px @GinesoMedium;
+}
+
+.h2 {
+    font: @30px/@40px @GinesoMedium;
+}
+
+.h3 {
+    font: @30px @GinesoMedium;
+}
+
+.h3-bold {
+    font: @30px @GinesoBold;
+}
+
+.h4 {
+    font: @18px @GinesoMedium;
+}
+
+small {
+    a {
+        color: @dark;
+        transition: opacity .8s @easeOutExpo;
+
+        &:hover {
+            color: @dark!important;
+            opacity: .4;
+        }
+    }
+}
